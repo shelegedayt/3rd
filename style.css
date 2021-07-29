@@ -1,0 +1,53 @@
+body{
+    background-image: url("p1.png");
+    background-repeat: inherit;
+}
+
+.wrpr{
+    color: ivory;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.navTop .item{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+}
+
+.navTop ul{
+    text-align: center;
+}
+
+.navTop{
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+.navTop .active{
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+}
+
+div{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+
+.navTop .ss{
+    display: inline-block;
+    margin: 15px;
+    padding: 10px;
+}
